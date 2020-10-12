@@ -1,0 +1,8 @@
+RewriteEngine On
+	RewriteBase /
+	RewriteCond %{REQUEST_FILENAME}.php -f
+	RewriteRule (.*) $1.php
+
+	<FilesMatch "\.csv$">
+		Require all denied
+	</FilesMatch>

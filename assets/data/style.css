@@ -1,0 +1,271 @@
+@font-face {
+    font-family: 'Segoe UI';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Segoe UI'), url('/assets/data/Segoe UI.woff') format('woff');
+}
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+    background-color: #2980b9;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+body.page1 {
+    background-color: #34495e;
+}
+
+body.page2 {
+    background-color: #ecf8f9;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+main.mood {
+    margin-left: 100px;
+    margin-right: 100px;
+    flex-wrap: wrap;
+	color: #fff;
+	margin-top: 40px;
+}
+
+main.mood aside {
+	position: absolute;
+	top: 10px;
+	font-size: 1.5em;
+}
+
+main div {
+    position: absolute;
+    top: 100px;
+    max-height: 90%;
+    max-width: 90%;
+}
+
+main div.mood {
+    position: unset;
+    top: unset;
+    width: 200px;
+    margin-bottom: 100px;
+}
+
+main div.mood div.chart {
+    position: unset;
+    top: unset;
+    background-color: #27ae60;
+    border-radius: 1px;
+    margin-top: 25px;
+    width: 150px;
+    padding: 5px;
+    color: #ecf0f1;
+    font-weight: bold;
+    font-size: 2.1rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+main div.mood div.chart4 {
+    height: 500px;
+}
+
+main div.mood div.chart3 {
+    height: 375px;
+}
+
+main div.mood div.chart2 {
+    height: 250px;
+}
+
+main div.mood div.chart1 {
+    height: 125px;
+}
+
+main div.mood div.chart0 {
+    height: 5px;
+}
+
+main div form label input {
+    position: absolute;
+    left: 202px;
+    width: 218px;
+    background-color: #35495e;
+    border: none;
+    padding: 6px;
+    font-size: 1.01rem;
+    color: #fff;
+}
+
+main div form button {
+    position: absolute;
+    left: 420px;
+}
+
+p.inputinfo {
+	text-align: center;
+	color: #fff;
+	font-size: 1.3em;
+}
+
+form#input {
+	width: 280px;
+	margin-left: auto;
+	margin-right: auto;
+	padding: 50px;
+	background-color: #ecf8f9;
+	border-radius: 2px;
+}
+
+form#input label,
+form#input button {
+	display: block;
+}
+
+input[type=number] {
+	padding: 10px;
+	font-size: 1.4em;
+	border: 2px solid #707070;
+	border-radius: 3px;
+  width: 250px;
+}
+
+article {
+    width: 100%;
+    height: 100%;
+    color: #707070;
+}
+
+section {
+    margin-top: 15px;
+    max-width: 90%;
+    margin: 15px 10%;
+    font-size: 1.2em;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+ul, ol {
+    font-size: 1.3rem;
+    margin-bottom: 5px;
+}
+
+footer {
+    font-weight: bold;
+    font-size: 1.7em;
+    text-align: center;
+	padding-bottom: 8px;
+}
+
+blockquote {
+    padding-left: 1em;
+    border-left: 0.3em solid #2980b9;
+    font-family: 'Roboto', sans-serif;
+    font-size: 1.3em;
+    line-height: 1.5em;
+    border-radius: 1px;
+}
+
+blockquote::before, blockquote::after {
+    content: '\201C  ';
+    font-family: 'Sanchez', fantasy;
+    color: #2980b9;
+}
+
+blockquote::after {
+    content: ' \201D';
+}
+
+button {
+    background-color: #d35400;
+    color: #fff;
+    padding: 6px;
+    border: none;
+    font-size: 1.01rem;
+}
+
+button[name=help] {
+    display: block;
+    margin: 5px;
+    padding: 15px 5px;
+    font-size: 1.4rem;
+    max-width: 150px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+p {
+    max-width: 100%;
+    margin-bottom: 5px;
+}
+
+ul li ul li {
+    margin-left: 15px;
+}
+
+h1 {
+    font-size: 3rem;
+    margin: 15px 10%;
+}
+
+h2 {
+    font-size: 1.8rem;
+}
+
+hr {
+    border: 2px solid #34495e;
+    border-radius: 1px;
+    margin: 10px auto;
+}
+
+*::selection {
+    background: #34495e;
+    color: #fff;
+}
+
+img {
+    max-height: auto;
+    max-width: 100%;
+}
+
+button,
+img {
+    user-select: none;
+}
+
+a {
+    color: #27ae60;
+    text-decoration: none;
+}
+
+@media only screen and (min-width: 1600px) {
+    main div.mood {
+		margin-bottom: 0px;
+	}
+}
+
+@media only screen and (max-width: 600px) {
+    input#inputPassword {
+        left: 39.5%;
+        width: 43%;
+    }
+    main div form button {
+        left: 82.5%;
+    }
+}
+
+@media only screen and (max-width: 600px) {
+    main div.mood div.chart {
+        margin-top: 15px;
+    }
+}
