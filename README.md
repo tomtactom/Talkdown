@@ -1,0 +1,2 @@
+# Talkdown
+Talkdown ist kein herunter Reden, sondern die Stimmung und Nervosität zum positiven zu beeinflussen. Das Hauptziel ist es wieder, einen Bezug zur Realität herzustellen. In allen Fällen, in denen die Wahrnehmung der Realität verzehrt ist, kann man durch bestimmte Gesprächsstrategien teilweise sogar in kürzester Zeit die betroffene Person beruhigen und sogar den dauerhaften Zustand verbessern. Diese Webseite bietet für den Betroffenen und den Helfenden einige praktische Tools.
