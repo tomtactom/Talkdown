@@ -38,118 +38,119 @@
             <section>
                 <h2>Informationen</h2>
                 <p>
-                    Diese Gesprächsmethode heißt <strong>Talk Down</strong>, was so viel bedeutet wie <i>Herunter Reden</i>. <br>
-										Im Grunde ist es aber kein Herunter Reden, sondern die Stimmung und Nervosität zum positiven zu beeinflussen. Das funktioniert bei Depressiven Verstimmungen, Ängstlichen und Panischen zuständen oder auch bei Nebenwirkungen von einigen Drogen. <br>
-										Das Haupt Ziel ist es wieder einen Bezug zur Realität herzustellen. In allen Fällen, in denen die Wahrnehmung der Realität verzehrt ist, kann man durch bestimmte Gesprächsstrategien teilweise sogar in kürzester Zeit die betroffene Person beruhigen und sogar den dauerhaften Zustand verbessern. Das schwierige hierbei ist, allerdings, dass es auch für einen selber eine Überwindung und eine größere Umstellung sein kann richtig zu reagieren. Wenn man mal nicht richtig reagiert, kann man allerdings dennoch wieder vertrauen aufbauen. <br>
-                    Talk Down läuft in verschiedenen Schritten ab. Je nachdem ob man die betroffene Person vorher schon emotional kennt oder was sie für eine Persönlichkeit hat und wie schwer die Abweichung zur Wirklichkeit ist, dauern einige Schritte mal länger als andere.
+                    Diese Gesprächsmethode heißt <strong>Talk Down</strong>, was so viel bedeutet wie <i>herunterreden</i>. <br>
+										Im Grunde ist es aber kein herunterreden, sondern die Stimmung und Nervosität zum positiven zu beeinflussen. Das funktioniert bei depressiven Verstimmungen, ängstlichen und panischen Zuständen oder auch bei Nebenwirkungen einiger Drogen. <br>
+										Das Haupt Ziel ist es, wieder einen Bezug zur Realität herzustellen. In allen Fällen, in denen die Wahrnehmung der Realität verzehrt ist, kann man durch bestimmte Gesprächsstrategien teilweise sogar in kürzester Zeit die betroffene Person beruhigen und sogar den dauerhaften Zustand verbessern. Das schwierige hierbei ist allerdings, dass es auch für einen selber eine Überwindung und eine größere Umstellung sein kann, richtig zu reagieren. Wenn man mal nicht richtig reagiert, kann man allerdings dennoch wieder vertrauen aufbauen. <br>
+                    Talk Down läuft in verschiedenen Schritten ab. Je nachdem, ob man die betroffene Person vorher schon emotional kennt, oder was sie für eine Persönlichkeit hat und wie schwer die Abweichung zur Wirklichkeit ist, dauern einige Schritte mal länger als andere.
                 </p>
                 <ol>
-                    <li>Wissen wie man in einer solchen Situation umgeht</li>
-                    <li>Erkennen von Panischen bzw. Depressiven Phasen</li>
-                    <li>(4) Den richtigen Ort wählen</li>
-                    <li>(3) Emotionalen Kontakt aufbauen</li>
+                    <li>wissen wie man in einer solchen Situation umgeht</li>
+                    <li>erkennen von panischen bzw. depressiven Phasen</li>
+                    <li>(4) den richtigen Ort wählen</li>
+                    <li>(3) emotionalen Kontakt aufbauen</li>
                     <li>Gespräch führen</li>
                     <li>Gespräch beenden</li>
                 </ol>
                 <p>
-                    Alle Punkte sind wichtig für einen langfristig reibungslosen und positiven Ablauf. Wenn man einmal angefangen hat, sollte man auch bis zum Ende weiter machen.
+                    Alle Punkte sind wichtig, für einen langfristig reibungslosen und positiven Ablauf. Wenn man einmal angefangen hat, sollte man auch bis zum Ende weiter machen.
                 </p>
             </section>
             <section>
-                <h2>Innere Einstellung</h2>
+                <h2>innere Einstellung</h2>
                 <p>
-                    Das, was man von sich gibt, ist generell verändernd. Zum positiven und negativen. Je mehr Einfühlungsvermögen man hat, desto mehr kann man auch verändern. All dies zu wissen ist zwar eine Hilfe, aber es bringt einem nichts, wenn man sich nicht in einen hineinversetzen kann und Emphatisch reagieren kann. Mache dir bewusst, ob du wirklich helfen möchtest, oder dir andere Dinge wichtiger sind. Im Grunde sollte aber das Ziel sein einen aus der Panischen bzw. Depressiven Phase zu holen. Normalerweise sollte nicht die Person gewechselt werden, allerdings schon, wenn man gar nicht mit der Situation klar kommt, oder das Gefühl hat es nur noch schlimmer zu machen.
+                    das, was man von sich gibt, ist generell verändernd. Zum positiven und negativen. Je mehr Einfühlungsvermögen man hat, desto mehr kann man auch verändern. All dies zu wissen, ist zwar eine Hilfe, aber es bringt einem nichts, wenn man sich nicht in denjenigen hineinversetzen kann und emphatisch reagieren kann. Mache dir bewusst, ob du wirklich helfen möchtest, oder dir andere Dinge wichtiger sind. Im Grunde sollte aber das Ziel sein, den Betroffenen aus der panischen bzw. depressiven Phase zu holen. Normalerweise sollte nicht die Person gewechselt werden, allerdings schon, wenn man gar nicht mit der Situation klarkommt, oder das Gefühl hat es nur noch schlimmer zu machen.
                 </p>
                 <ul>
-                    <li>Ziele und Erwartungen
+			<li>Ziele und Erwartungen
                         <ul>
-                            <li>Das Ziel sollte es sein, einen zu beruhigen und aus der Panischen bzw. Depressiven Phase zu holen</li>
-                            <li>Erwarten werden, sollte ohne Erfahrung nichts, da oft anders reagiert wird als normal</li>
+                            <li>das Ziel sollte es sein, einen zu beruhigen und aus der Panischen bzw. Depressiven Phase zu holen</li>
+                            <li>erwartet werden, sollte ohne Erfahrung nichts, da oft anders reagiert wird als in normalen Situationen</li>
                         </ul>
                     </li>
                     <li>Stärken und Grenzen kennen
                         <ul>
-                            <li>Sich klar machen was man kann, was man weiß und das auch akzeptieren</li>
-                            <li>Wenn man merkt, dass man nichts ausrichten kann andere um Hilfe fragen, die sich besser auskennen</li>
+                            <li>sich klarmachen was man kann, was man weiß und das auch akzeptieren</li>
+                            <li>wenn man merkt, dass man nichts ausrichten kann andere um Hilfe fragen, die sich besser auskennen</li>
                         </ul>
                     </li>
-                    <li>Eigenes Einfühlungsvermögen
+                    <li>eigenes Einfühlungsvermögen
                         <ul>
-                            <li>Probieren in denjenigen hineinzuversetzen</li>
+                            <li>probieren, sich in denjenigen hineinzuversetzen</li>
                             <li>Gedanken und Gefühle nicht ausreden oder schönreden</li>
-                            <li>Nicht von eigenen Gefühlen oder von Gefühlen anderer Personen erzählen</li>
-                            <li>Hinterfragen, wenn Körpersprache und Verbales nicht übereinstimmen</li>
+                            <li>nicht von eigenen Gefühlen oder von Gefühlen anderer Personen erzählen</li>
+                            <li>hinterfragen, wenn Körpersprache und Verbales nicht übereinstimmen</li>
                         </ul>
                     </li>
-                    <li>Person nicht wechseln
+                    <li>Gesprächspartner nicht wechseln
                         <ul>
-                            <li>Es sollte am besten nur einer oder maximal zwei in der Nähe sein die helfen</li>
-                            <li>Bei Personenwechseln geht der Emotionale Bezug verloren und man muss wieder von vorne anfangen, außerdem ist es dann schwieriger erneut Vertrauen aufzubauen</li>
+                            <li>es sollte am besten nur einer oder maximal zwei in der Nähe sein die helfen</li>
+                            <li>bei Personenwechseln geht der emotionale Bezug verloren und man muss wieder von vorne anfangen, außerdem ist es dann schwieriger erneut Vertrauen aufzubauen</li>
                         </ul>
                     </li>
-										<li>Nehme dir Zeit
+										<li>nimm dir Zeit
 												<ul>
-														<li>Es bringt nichts, wenn du nicht genug Zeit einplanst</li>
-														<li>Wie lange so etwas genau dauert, hängt davon ab, wie schlecht es demjenigen geht</li>
+														<li>es bringt nichts, wenn du nicht genug Zeit einplanst</li>
+														<li>wie lange so etwas genau dauert, hängt davon ab, wie schlecht es demjenigen geht</li>
 														<li>ca. 1 Stunde sollte mal allerdings schon einplanen</li>
+														<li>mindestens sollte man von 20 Minuten ausgehen</li>
 												</ul>
 										</li>
                 </ul>
             </section>
             <section>
-                <h2>Erkennen von Panischen bzw. Depressiven Phasen</h2>
+                <h2>Erkennen von panischen bzw. depressiven Phasen</h2>
                 <p>
-                    Das Erkennen einer Situation in der Hilfe gebraucht wird, ist der Grundsatz um überhaupt helfen zu können. Die unten genannten Punkte werden in seltensten Fällen alle auf einmal auftreten, aber schon wenn ein paar zutreffen, kann man davon ausgehen, dass es sich um eine solche Situation handelt.
+                    Das Erkennen einer Situation in der Hilfe gebraucht wird, ist der Grundsatz um überhaupt helfen zu können. Die unten genannten Punkte, werden in den seltensten Fällen alle auf einmal auftreten, aber schon wenn ein paar zutreffen, kann man davon ausgehen, dass es sich um eine solche Situation handelt.
                 </p>
                 <ul>
-                    <li>Verändertes Verhalten
+                    <li>verändertes Verhalten
                     <ul>
                         <li>Apathie <i>(Geistige Abwesenheit oder Regungslosigkeit)</i></li>
-                        <li>Numbing <i>(Keine Reaktion auf Emotionen anderer)</i></li>
-                        <li>Nicht oder wenig reden</li>
-                        <li>Nicht auf Fragen antworten</li>
-                        <li>Nur mit „Keine Ahnung“ oder „Weiß ich nicht“ antworten</li>
+                        <li>Numbing <i>(Keine Reaktion auf Emotionen anderer; emotionale Taubheit)</i></li>
+                        <li>nicht oder wenig reden</li>
+                        <li>nicht auf Fragen antworten</li>
+                        <li>nur mit „Keine Ahnung“ oder „Weiß ich nicht“ antworten</li>
                         <li>Distanzierung</li>
-                        <li>Panischer oder schmerzlicher Blick</li>
-                        <li>Handy oder wertvolle Gegenstände mehrmals fallen lassen</li>
-                        <li>Müdigkeit/Erschöpfung</li>
+                        <li>panischer oder schmerzlicher Blick</li>
+                        <li>Smartphone oder andere wertvolle Gegenstände mehrmals fallen lassen (keine materielle Wertschätzung)</li>
+                        <li>Müdigkeit oder Erschöpfung</li>
                         <li>Gesicht verdecken</li>
                     </ul>
                     </li>
-                    <li>Körperliche Symptome
+                    <li>körperliche Symptome
                         <ul>
                             <li>Muskeln sind angespannt</li>
-                            <li>Hoher Puls</li>
-                            <li>Trockener Mund</li>
-                            <li>Schnelles Atmen</li>
-                            <li>Schmerzen in z. B. Armen</li>
-                            <li>Zittern</li>
-                            <li>Starke Fokussierung der Augen</li>
-                            <li>Keine Fokussierung der Augen</li>
-                            <li>Kleine Pupillen</li>
-                            <li>Schwitzen</li>
-                            <li>Gänsehaut</li>
+                            <li>hoher Puls</li>
+                            <li>trockener Mund</li>
+                            <li>schnelles Atmen</li>
+                            <li>schmerzen in z. B. Armen oder Brustkorb</li>
+                            <li>zittern</li>
+                            <li>starke Fokussierung der Augen</li>
+                            <li>keine Fokussierung der Augen</li>
+                            <li>kleine Pupillen</li>
+                            <li>schwitzen</li>
+                            <li>gänsehaut</li>
                         </ul>
                     </li>
                 </ul>
             </section>
             <section>
-                <h2>Emotionalen Kontakt aufbauen</h2>
+                <h2>emotionalen Kontakt aufbauen</h2>
                 <p>
-                    Jemand der die Realität nicht richtig wahrnimmt, kann auch denken, dass einen niemand versteht und man jedem egal ist. Umso wichtiger ist es also hier einen Emotionalen Kontakt aufzubauen. Was viele nicht können, ist selber Emotionen von sich preiszugeben. Im Grunde gilt aber, je mehr man von sich verrät, desto mehr erfährt man auch über den wirklichen Zustand. <br>
-										Leute die eine depressive Phase haben könne so wirken, als wenn sie mit niemandem reden wollen und komplett in sich zurückgezogen sind. Dabei möchten solche Leute über all ihre Emotionen reden. Es ist also die Aufgabe Kontakt aufzubauen, dass demjenigen klar wird, dass jemand helfen möchte.
+                    Jemand, der die Realität nicht richtig wahrnimmt, kann auch denken, dass einen niemand versteht und man jedem egal ist. Umso wichtiger ist es also hier einen emotionalen Kontakt aufzubauen. Was viele nicht können, ist selber Emotionen von sich zu zeigen. Im Grunde gilt aber, je mehr man von sich verrät, desto mehr erfährt man auch über den wirklichen Zustand. <br>
+										Leute die eine depressive Phase haben, könne so wirken, als wenn sie mit niemandem reden wollen und komplett in sich zurückgezogen sind. Dabei möchten solche Leute über all ihre Emotionen reden. Es ist also die Aufgabe Kontakt aufzubauen, dass demjenigen klar wird, dass jemand helfen möchte.
                 </p>
                 <ul>
-                    <li>Vorsichtig nähern
+                    <li>vorsichtig nähern
                         <ul>
-                            <li>Derjenige verlässt von selber den Ort
+                            <li>derjenige verlässt von selber den Ort
                                 <ul>
-                                    <li>Als einzelner folgen, immer noch leichte Distanz zeigen, aber dennoch im positiven aufdringlich</li>
+                                    <li>als einzelner folgen, immer noch leichte Distanz zeigen, aber dennoch im positiven aufdringlich</li>
                                 </ul>
                             </li>
-                            <li>Derjenige ist noch in der Nähe anderer (Nicht an einem unten beschriebenen Ort)
+                            <li>derjenige ist noch in der Nähe anderer (nicht an einem unten beschriebenen Ort)
                                 <ul>
-                                    <li>Ruhig fragen, ob derjenige mit dir an einen ruhigeren/anderen Ort gehen möchte</li>
+                                    <li>ruhig fragen, ob derjenige mit dir an einen ruhigeren/anderen Ort gehen möchte</li>
                                 </ul>
                             </li>
                             <li>Nähe und Distanz – Balance (Nähe und Distanz absprechen)
@@ -157,19 +158,19 @@
                                     <li>Grenze nicht überschreiten, ohne zu fragen</li>
                                 </ul>
                             </li>
-                            <li>Versuchen sich in einen hineinzuversetzen</li>
+                            <li>versuchen dich in denjenigen hineinzuversetzen</li>
                             <li>Vertrauen aufbauen
                                 <ul>
-                                    <li>Verwendung von „Ich“ statt „Wir“</li>
-                                    <li>Mit Namen ansprechen</li>
+                                    <li>verwendung von „Ich“ statt „Wir“</li>
+                                    <li>mit Namen ansprechen</li>
                                     <li>Emotionen zeigen</li>
                                 </ul>
                             </li>
                             <li>Ja-Haltung (Fragen stellen die mit Ja beantwortet werden)
                                 <ul>
-                                    <li>Also alle Frage umformulieren, dass sie zwangsläufig mit Ja beantwortet werden</li>
-                                    <li>Auch wenn sie gar nicht beantwortet werden, ist es ein Fortschritt</li>
-                                    <li>„Dir geht es gerade wohl nicht so gut, oder?“</li>
+                                    <li>alle Frage umformulieren, dass sie zwangsläufig mit Ja beantwortet werden</li>
+                                    <li>auch wenn sie gar nicht beantwortet werden, ist es ein Fortschritt</li>
+                                    <li>„Dir geht es gerade nicht so gut?“</li>
                                 </ul>
                             </li>
                         </ul>
@@ -179,32 +180,32 @@
             <section>
                 <h2>Ort</h2>
                 <p>
-                    Wähle einen Ort, der einen <strong>Schutzraum zum Reden</strong> und eine <strong>Distanz zu negativen Gefühlen</strong> bietet. Dieser Ort kann ein <strong>anderer Raum</strong> sein oder <strong>draußen ein abgelegener Ort</strong>. Wichtig ist, dass man sich dort in Sicherheit fühlt. In Sicherheit vor anderen Leuten, störenden Geräuschen oder negativen Erinnerungen. <br>
-										Man sollte denjenigen mitentscheiden lassen, welcher Ort gewählt wird. Dabei kann man am besten <strong>zwei Vorschläge</strong> geben, aus denen dann derjenige selber entscheiden kann. Gut, ist es auch zu fragen, ob es ein ganz anderer Ort sein soll. <br>
-										Nicht immer können alle Eigenschaften befriedigt werden, doch im Grunde ist die Hauptsache, dass man eine <strong>Ruhige und sichere Atmosphäre aufbauen</strong> kann.
+                    Wähle einen Ort, der einen <strong>Schutzraum zum Reden</strong> und eine <strong>Distanz zu negativen Gefühlen</strong> bietet. Dieser Ort kann ein <strong>anderer Raum</strong> sein oder <strong>draußen ein abgelegener Ort</strong>. Wichtig ist, dass man sich dort in Sicherheit fühlt. In Sicherheit vor anderen Leuten, störenden Geräuschen oder negativen Eindrücken und Erinnerungen. <br>
+										Du solltest denjenigen mitentscheiden lassen, welcher Ort gewählt wird. Dabei kannst du am besten <strong>zwei Vorschläge</strong> geben, aus denen dann derjenige selber entscheiden kann. Gut, ist es auch zu fragen, ob es ein ganz anderer Ort sein soll. <br>
+										Nicht immer können alle Eigenschaften befriedigt werden, doch im Grunde ist die Hauptsache, dass man eine <strong>ruhige und sichere Atmosphäre aufbauen</strong> kann.
                 </p>
                 <ul>
                     <li>Ruhe
                         <ul>
-                            <li>Keine Störgeräusche</li>
-                            <li>Keine Störenden Lichter o. ä.</li>
-                            <li>Keine Stimmen anderer</li>
+                            <li>keine Störgeräusche</li>
+                            <li>keine störenden Lichter o. ä.</li>
+                            <li>keine Stimmen anderer</li>
                         </ul>
                     </li>
                     <li>Sicherheit
                         <ul>
-                            <li>Keine anderen Leute in der Nähe</li>
-                            <li>Niemand der mithören oder einen sehen kann</li>
-                            <li>Keine Gefährlichen Orte oder Gegenstände in der Nähe</li>
-                            <li>Schutz vor Wetter (Wind, Regen usw.)</li>
-                            <li>Ort meiden, wo sich schonmal eine Panikattacke entwickelt hat</li>
+                            <li>keine anderen Leute in der Nähe</li>
+                            <li>niemand der mithören oder einen sehen kann</li>
+                            <li>keine gefährlichen Orte oder Gegenstände in der Nähe</li>
+                            <li>schutz vor Wetter (Wind, Regen usw.)</li>
+                            <li>Ort meiden, wo sich schonmal eine Panikattacke entwickelt hat oder der Betroffene ein belastendes Erlebnis hatte</li>
                         </ul>
                     </li>
                     <li>Freiwilligkeit
                         <ul>
-                            <li>Einem Vorschläge geben, (möglichst 2) ob der und der Ort OK ist</li>
-                            <li>Wenn sich die genannten Eigenschaften ändern, fragen, ob man woanders hingehen möchte, oder der Ort noch OK ist</li>
-                            <li>Nicht einsperren/Festhalten etc.</li>
+                            <li>dem Betroffenen Vorschläge geben, (möglichst 2) ob der und der Ort in Ordnung ist</li>
+                            <li>wenn sich die genannten Eigenschaften ändern, fragen, ob man woanders hingehen möchte, oder der Ort noch OK ist</li>
+                            <li>nicht einsperren/festhalten etc.</li>
                         </ul>
                     </li>
                 </ul>
@@ -212,59 +213,59 @@
             <section>
                 <h2>Gespräch führen</h2>
                 <p>
-										Wenn erst einmal ein Kontakt aufgebaut wurde, kann man mit dem <i>Part</i> „Gespräch führen“ beginnen. Im Grunde ist das, das schwierigste, aber auch das, wo man am meisten bewirken kann. Man muss auch selber bereit sein offen über seine Gedanken reden zu können und dazu zählt auch zu sagen, wenn man gerade nicht offen über einen Gedanken reden kann. <br>
+										Wenn erst einmal ein Kontakt aufgebaut wurde, kann man mit dem <i>Part</i> „Gespräch führen“ beginnen. Im Grunde ist es das schwierigste, aber auch dass, mit dem man am meisten bewirken kann. Man muss auch selber bereit sein offen über seine Gedanken reden zu können und dazu zählt auch zu sagen, wenn man gerade nicht offen über einen Gedanken reden kann. <br>
 										Spätestens wenn man hier angekommen ist, ist es nicht gerade sinnvoll das Gespräch abrupt zu beenden.
                 </p>
                 <ul>
                     <li>Ja-Haltung (Fragen stellen die mit Ja beantwortet werden)
+                                <ul>
+                                    <li>alle Frage umformulieren, dass sie zwangsläufig mit Ja beantwortet werden</li>
+                                    <li>auch wenn sie gar nicht beantwortet werden, ist es ein Fortschritt</li>
+                                    <li>„Dir geht es gerade nicht so gut?“</li>
+                                </ul>
+                            </li>
+                    <li>vermeidung negativer Wörter und Benutzung von Füllwörtern
                         <ul>
-                            <li>Also alle Frage umformulieren, dass sie zwangsläufig mit Ja beantwortet werden</li>
-                            <li>Auch wenn sie gar nicht beantwortet werden, ist es ein Fortschritt</li>
-                            <li>„Dir geht es gerade wohl nicht so gut, oder?“</li>
-                        </ul>
-                    </li>
-                    <li>Vermeidung negativer Wörter und Benutzung von Füllwörtern
-                        <ul>
-                            <li>Anstatt „Schlecht“, „nicht so gut“</li>
-                            <li>Anstatt „aber“, „nur“</li>
-                            <li>Benutze so oft es geht „Vielleicht“, „Wenn du möchtest“, „Ja, nur“ <i>(Auch wenn es sich komisch anhört)</i></li>
-                            <li>Das Wort „Nein“, möglichst nicht benutzen</li>
+                            <li>anstatt „schlecht“, „nicht so gut“</li>
+                            <li>anstatt „aber“, „nur“</li>
+                            <li>benutze so oft es geht „vielleicht“, „wenn du möchtest“, „ja, nur“ <i>(Auch wenn es sich komisch anhört)</i></li>
+                            <li>das Wort „nein“, möglichst nicht benutzen</li>
                         </ul>
                     </li>
                     <blockquote>Ein Füllwort ist laut <i>Duden</i> ein Wort mit <i>geringem Aussagewert</i>, das zum Verständnis des Kontextes nicht notwendig ist.</blockquote>
-                    <li>Reframing <i>(Positive Umdeutung ohne Gedanken und Gefühle auszureden)</i></li>
+                    <li>reframing <i>(Positive Umdeutung ohne Gedanken und Gefühle auszureden)</i></li>
                     <li>Bitten, Besorgnisse und Gedanken direkt äußern
 												<ul>
-														<li>Sag, wenn du nicht weißt was du sagen sollst</li>
-														<li>Sag, wenn du vor irgendwas Angst hast</li>
-														<li>Frage, wenn du eine Frage hast</li>
+														<li>sag, wenn du nicht weißt was du sagen sollst</li>
+														<li>sag, wenn du vor irgendwas Angst hast</li>
+														<li>frage, wenn du eine Frage hast</li>
 												</ul>
 										</li>
-                    <li>Keine heimlichen Absprachen mit dritten
+                    <li>keine heimlichen Absprachen mit dritten
 												<ul>
-														<li>Alles was im Gespräch erzählt wird, bleibt auch im Gespräch</li>
-														<li>Wenn du jemand anderen hinzuholen wirst, frage nach</li>
+														<li>alles, was im Gespräch erzählt wird, bleibt auch im Gespräch</li>
+														<li>wenn du jemand anderen hinzuholen wirst, frage nach</li>
 												</ul>
 										</li>
-                    <li>Transparente Handlungen
+                    <li>transparente Handlungen
 												<ul>
-														<li>Probiere das Gespräch so transparent wie möglich zu halten</li>
+														<li>probiere das Gespräch so transparent wie möglich zu halten</li>
 												</ul>
 										</li>
-                    <li>Aussprechen, was man denkt</li>
-										<li>Auf die eigene Körpersprache Achten
+                    <li>aussprechen, was man denkt</li>
+										<li>auf die eigene Körpersprache Achten
 												<ul>
-														<li>Wenn man sich gegenüber sitzt: Beine nebeneinander</li>
-														<li>Besser: Wenn man sich nicht gegenüber sitzt: Beine verschränken</li>
-														<li>Arme nicht verschränken</li>
-														<li>Mit Händen nicht auf Beinen abstützen</li>
-														<li><small><i>Nur wenn man möchte: Hand auf Schulter/Umarmen</i></small></li>
-														<li>Augenkontakt probieren zu halten</li>
+														<li>wenn man sich gegenüber sitzt: Beine nebeneinander</li>
+														<li>besser: Wenn man sich nicht gegenüber sitzt: Beine verschränken</li>
+														<li>arme nicht verschränken</li>
+														<li>mit Händen nicht auf Beinen abstützen</li>
+														<li><small><i>nur wenn man möchte, Hand auf Schulter/Umarmen</i></small></li>
+														<li>probieren Augenkontakt zu halten</li>
 												</ul>
 										</li>
-										<li>Probieren das Gespräch auf Emotionaler Ebene zu führen
+										<li>probieren das Gespräch auf emotionaler Ebene zu führen
 												<ul>
-														<li>Stelle Fragen, wie sich derjenige <i>in der und der Situation</i> gefühlt hat</li>
+														<li>stelle Fragen, wie sich derjenige <i>in der und der Situation</i> gefühlt hat</li>
 												</ul>
 										</li>
                 </ul>
