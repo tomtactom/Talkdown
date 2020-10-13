@@ -14,16 +14,42 @@ Dieses Repository bietet eine PHP basierte WebApp, welche Tools und Informatione
 ## Installation
 
 Linux:
-
+Du kannst die Dateien entweder manuell als Zip-Datei herunterladen oder über _git_ Klonen. (empfohlen)
 ```sh
 sudo apt update && sudo apt upgrade -y && sudo apt autoremove -y
 sudo apt install git
-git clone https://github.com/tomtactom/talkdown.git
 ```
+Du benötigst einen Apache24 Webserver mit PHP. Wenn du dies nicht hast, kannst du es so installieren. Wenn du bereits einen hast, kannst du weiter unten Fortfahren und in dem Stammverzeichnis deines Webservers die Dateien Klonen.
+```sh
+sudo apt install apache2 -y
+sudo apt install php7.3 php7.3-mysql php7.3-curl php7.3-gd php7.3-zip php7.3-fpm php7.3-cli php7.3-opcache php7.3-json php7.3-mbstring php7.3-xml libapache2-mod-php7.3 php-common -y
+sudo chmod 755 -R /var/www
+sudo rm -r /var/www/html
+cd /var/www/
+```
+
+```sh
+git clone https://github.com/tomtactom/Talkdown.git
+```
+
+Wenn du dem Beispiel zum installieren von Apach24 und PHP gefolgt bist, benenne noch das Repository um:
+```sh
+mv /var/www/Talkdown /var/www/html
+```
+
+Jetzt kannst du die Seite in deinem Browser unter _localhost_ öffnen.
 
 Windows:
 
 _Leider ist für dieses Betriebssystem noch keine Version verfügbar._
+
+## Anwendungsbeispiele
+
+In ein paar Sätzen beschreiben wofür man das Produkt verwenden kann.
+
+* Ein Beispiel für die Anwendung.
+* Noch ein Beispiel für die Anwendung.
+* Und ein weiteres Beispiel für die Anwendung.
 
 
 ## Versionsverlauf
