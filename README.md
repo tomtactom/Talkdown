@@ -45,10 +45,21 @@ _Leider ist für dieses Betriebssystem noch keine Version verfügbar._
 
 ## Anwendung
 
-Öffne die Seite über die jeweilige Domain oder über _localhost_
+Öffne die Seite über die jeweilige Domain oder über _localhost_.
+Das System ist für zwei verschiedene Instanzen gedacht. Zum einen für den Betroffenen und zum anderen für den Helfenden.
 
-* Gebe in das Feld _Passwort_ das Passwort _u#LPt7+3b_ ein und klicke auf _Einloggen_
+* Der Betroffene:
+    * Unter https://example.com/input.php?auth=asdegnpaosrgh34085odgfn kann die aktuelle Gefühlslage von 0 bis 4 eingegeben werden. Diese wird dann in einer CSV-Datei gespeichert und dem Helfenden drei Stunden lang zur Verfügung gestellt.
+   
+* Der Helfende:
+   * Gebe in das Feld _Passwort_ das Passwort _u#LPt7+3b_ ein und klicke auf _Einloggen_
+   * Wenn der Betroffene in den letzten drei Stunden seine aktuelle Gefühlslage eingetragen hat, sind die Werte in Form von Balken zu sehen.
+   * Wenn du vor hast dem Betroffenen zu helfen, kannst du auf den unteren Button _Ich will helfen_ klicken.
+   * Lese dir dann den Text durch und entscheide dann, ob du dich bereit fühlst zu helfen
+   * Wichtig: Wenn aktiv die Gefahr besteht, dass derjenige sich selbst oder andere Verletzt und du die Situation nicht unter kontrolle bekommst, rufe den Rettungsdienst oder versuche anderweitig professionelle Hilfe zu besorgen. Dies soll trotzdem alles in Absprache mit dem Betroffenen geschehen.
+    
 
+Du kennst dich gut mit dem Thema aus? Schreibe einem der Entwickler über WhatsApp oder erstelle eine Issue um Inhalte zu ändern, anzupassen oder hinzuzufügen. Auch Verbesserungsvorschläge aller Art sind Wilkommen.
 
 ## Versionsverlauf
 
