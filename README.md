@@ -43,13 +43,11 @@ Windows:
 
 _Leider ist für dieses Betriebssystem noch keine Version verfügbar._
 
-## Anwendungsbeispiele
+## Anwendung
 
-In ein paar Sätzen beschreiben wofür man das Produkt verwenden kann.
+Öffne die Seite über die jeweilige Domain oder über _localhost_
 
-* Ein Beispiel für die Anwendung.
-* Noch ein Beispiel für die Anwendung.
-* Und ein weiteres Beispiel für die Anwendung.
+* Gebe in das Feld _Passwort_ das Passwort _u#LPt7+3b_ ein und klicke auf _Einloggen_
 
 
 ## Versionsverlauf
